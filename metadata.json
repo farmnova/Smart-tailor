@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tailor",
+  "description": "Smart Tailoring AI: Custom garment designer, body measurement calibrator, fabric estimator, sewing pattern engine, and virtual fitting studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
